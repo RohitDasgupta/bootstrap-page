@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-page",
+  "version": "1.0.0",
+  "description": "Webpage using Bootstrap Framework",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohitDasgupta/bootstrap-page.git"
+  },
+  "author": "Rohit Dasgupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RohitDasgupta/bootstrap-page/issues"
+  },
+  "homepage": "https://github.com/RohitDasgupta/bootstrap-page#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "lite-server": "^2.5.4",
+    "popper.js": "^1.16.1"
+  }
+}
